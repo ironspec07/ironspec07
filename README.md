@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey there! 👋 I'm Aditya, a final-year Computer Science Engineering student passionate about coding, problem-solving, and building cool tech projects.<br>Let's Connect : ironspec07@gmail.com
+<br> Resume: https://github.com/ironspec07/Resume/blob/main/Aditya_Kumar_Tiwari_Resume.pdf
 
 
 ## 🌐 Socials:
